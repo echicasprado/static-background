@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2019/03/mountains-landscape-dark-nature-4k_1551643707.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main{
+    position: static;
+    text-align: center;
+}
+
+main h1{
+    color: white;
+}
